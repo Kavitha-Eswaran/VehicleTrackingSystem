@@ -1,0 +1,7 @@
+C:\Users\Kavitha\VehicleTrackingSystem\obj\Debug\net5.0\VehicleTrackingAPI.csproj.AssemblyReference.cache
+C:\Users\Kavitha\VehicleTrackingSystem\obj\Debug\net5.0\VehicleTrackingAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kavitha\VehicleTrackingSystem\obj\Debug\net5.0\VehicleTrackingAPI.AssemblyInfoInputs.cache
+C:\Users\Kavitha\VehicleTrackingSystem\obj\Debug\net5.0\VehicleTrackingAPI.AssemblyInfo.cs
+C:\Users\Kavitha\VehicleTrackingSystem\obj\Debug\net5.0\VehicleTrackingAPI.csproj.CoreCompileInputs.cache
+C:\Users\Kavitha\VehicleTrackingSystem\obj\Debug\net5.0\VehicleTrackingAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kavitha\VehicleTrackingSystem\obj\Debug\net5.0\VehicleTrackingAPI.MvcApplicationPartsAssemblyInfo.cache
